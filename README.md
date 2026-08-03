@@ -1,4 +1,4 @@
-[README_3.md](https://github.com/user-attachments/files/30681408/README_3.md)
+[README.md](https://github.com/user-attachments/files/30681487/README.md)
 <div align="center">
 
 <img src="Screenshot%202026-08-04%20004257.png" alt="Alzheimer's Disease Analysis" width="100%">
